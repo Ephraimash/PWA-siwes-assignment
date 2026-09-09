@@ -96,7 +96,7 @@ export default function App() {
   useEffect(() => {
     async function loadData() {
       try {
-        const resRestaurants = await fetch('/data/restaurants.json');
+        const resRestaurants = await fetch(`${import.meta.env.BASE_URL}data/restaurants.json`);
         if (resRestaurants.ok) {
           const data = await resRestaurants.json();
           if (Array.isArray(data) && data.length > 0) {
@@ -108,7 +108,7 @@ export default function App() {
       }
 
       try {
-        const resMenus = await fetch('/data/menus.json');
+        const resMenus = await fetch(`${import.meta.env.BASE_URL}data/menus.json`);
         if (resMenus.ok) {
           const data = await resMenus.json();
           if (Array.isArray(data) && data.length > 0) {
