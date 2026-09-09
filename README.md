@@ -2,19 +2,28 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# FoodHub
 
-This contains everything you need to run your app locally.
+Multi-restaurant food ordering Progressive Web App with offline menu browsing, cart, simulated checkout, and restaurant contact.
 
-View your app in AI Studio: https://ai.studio/apps/eaf41516-42fa-4292-a0ec-2523a9b7c003
+## Deployed Application
+
+https://ephraimash.github.io/PWA-siwes-assignment/
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js v24.21.0
 
+```bash
+npm install
+npm run dev
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The development server runs at http://localhost:3000.
+
+## Offline Test
+
+1. Run `npm run build` and `npm run preview -- --host 127.0.0.1 --port 4173`.
+2. Open http://127.0.0.1:4173/ in a browser and wait for the service worker to register.
+3. Disable network access using browser offline/network emulation and reload the page.
+4. Confirmed result: the cached FoodHub app loaded successfully and rendered the restaurant list with all five restaurants while offline.
