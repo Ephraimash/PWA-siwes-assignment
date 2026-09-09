@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Mama's Spice Kitchen",
+    "cuisine": "African & Grills",
+    "rating": 4.8,
+    "priceRange": "₦",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+    "location": {
+      "lat": 6.4281,
+      "lng": 3.4219,
+      "address": "14 Adeola Odeku St, Victoria Island, Lagos"
+    },
+    "phone": "+2348012345678",
+    "whatsapp": "2348012345678",
+    "deliveryTime": "25-35 min",
+    "minimumOrder": 15.00,
+    "description": "Authentic Afro-fusion dishes, slow-smoked suya steaks, firewood jollof, and savory stews made with heirloom spices.",
+    "dietaryTags": ["gluten-free", "halal", "vegetarian"]
+  },
+  {
+    "id": 2,
+    "name": "Bella Napoli Trattoria",
+    "cuisine": "Italian",
+    "rating": 4.7,
+    "priceRange": "₦",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+    "location": {
+      "lat": 6.4474,
+      "lng": 3.4735,
+      "address": "22 Admiralty Way, Lekki Phase 1, Lagos"
+    },
+    "phone": "+2348023456789",
+    "whatsapp": "2348023456789",
+    "deliveryTime": "30-45 min",
+    "minimumOrder": 20.00,
+    "description": "Handcrafted artisanal pasta, wood-fired Neapolitan sourdough pizzas, and classic Italian dolce.",
+    "dietaryTags": ["vegetarian", "vegan", "gluten-free"]
+  },
+  {
+    "id": 3,
+    "name": "Tokyo Express Grill",
+    "cuisine": "Asian & Sushi",
+    "rating": 4.9,
+    "priceRange": "₦",
+    "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=80",
+    "location": {
+      "lat": 6.4520,
+      "lng": 3.4350,
+      "address": "8 Kingsway Road, Ikoyi, Lagos"
+    },
+    "phone": "+2348034567890",
+    "whatsapp": "2348034567890",
+    "deliveryTime": "25-40 min",
+    "minimumOrder": 22.00,
+    "description": "Premium sashimi, signature specialty maki rolls, rich tonkotsu ramen broth, and crispy katsu bowls.",
+    "dietaryTags": ["gluten-free", "vegan", "vegetarian", "halal"]
+  },
+  {
+    "id": 4,
+    "name": "The Gourmet Burger Co.",
+    "cuisine": "Burgers & Fast Casual",
+    "rating": 4.6,
+    "priceRange": "₦",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+    "location": {
+      "lat": 6.4350,
+      "lng": 3.4480,
+      "address": "5 Prince Alaba Oniru Way, Victoria Island, Lagos"
+    },
+    "phone": "+2348045678901",
+    "whatsapp": "2348045678901",
+    "deliveryTime": "20-30 min",
+    "minimumOrder": 12.00,
+    "description": "Dry-aged smashed beef patties, brioche buns toasted in butter, loaded crispy fries, and thick shakes.",
+    "dietaryTags": ["vegetarian", "vegan", "gluten-free", "halal"]
+  },
+  {
+    "id": 5,
+    "name": "Green Oasis Bowls & Café",
+    "cuisine": "Healthy & Salads",
+    "rating": 4.8,
+    "priceRange": "₦",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+    "location": {
+      "lat": 6.4600,
+      "lng": 3.4200,
+      "address": "3 Sanusi Fafunwa St, Victoria Island, Lagos"
+    },
+    "phone": "+2348056789123",
+    "whatsapp": "2348056789123",
+    "deliveryTime": "15-25 min",
+    "minimumOrder": 10.00,
+    "description": "Vibrant superfood salads, fresh organic smoothie bowls, cold-pressed raw juices, and warm grain bowls.",
+    "dietaryTags": ["vegan", "vegetarian", "gluten-free"]
+  }
+]

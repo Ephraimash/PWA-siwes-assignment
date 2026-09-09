@@ -1,0 +1,1176 @@
+[
+  {
+    "id": 101,
+    "restaurantId": 1,
+    "name": "Signature Smokey Jollof Rice Combo",
+    "description": "Party-style firewood jollof rice served with grilled peppered chicken, fried plantains (dodo), and spicy coleslaw.",
+    "price": 14.5,
+    "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 102,
+    "restaurantId": 1,
+    "name": "Tender Beef Suya Platter",
+    "description": "Thinly sliced prime sirloin tossed in spicy yaji pepper blend, served with sliced red onions and ripe tomatoes.",
+    "price": 16,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 103,
+    "restaurantId": 1,
+    "name": "Egusi Soup with Pounded Yam",
+    "description": "Rich melon seed soup with spinach, stockfish, assorted smoked meats, accompanied by silky smooth pounded yam.",
+    "price": 18.5,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 104,
+    "restaurantId": 1,
+    "name": "Honey Beans & Sweet Plantain Bowl",
+    "description": "Slow-simmered tender honey beans cooked in caramelized palm onion oil, topped with sweet fried plantains.",
+    "price": 12,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 105,
+    "restaurantId": 1,
+    "name": "Tropical Chapman Punch",
+    "description": "Classic Nigerian sparkling mocktail with Angostura bitters, citrus slices, cucumber, and grenadine.",
+    "price": 5.5,
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 106,
+    "restaurantId": 1,
+    "name": "Charcoal Grilled Whole Tilapia",
+    "description": "Whole fresh tilapia rubbed with chili ginger marinade, char-grilled to perfection with seasoned bell peppers.",
+    "price": 22,
+    "image": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 107,
+    "restaurantId": 1,
+    "name": "Peppered Goat Meat (Asun) Skewers",
+    "description": "Smoky spicy diced goat meat roasted over open flames, sautéed with habanero chili and red onions.",
+    "price": 15.5,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 108,
+    "restaurantId": 1,
+    "name": "Fried Yam & Pepper Sauce with Dodo",
+    "description": "Crisp golden white yam batons paired with caramelized ripe fried plantains and spicy Ata dindin dip.",
+    "price": 10.5,
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 109,
+    "restaurantId": 1,
+    "name": "Seafood Okra Soup with Eba",
+    "description": "Hand-chopped fresh okra soup loaded with jumbo prawns, crab claws, calamari, and seasoned cassava swallow.",
+    "price": 21,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 110,
+    "restaurantId": 1,
+    "name": "Gizdodo Special Bowl",
+    "description": "Tender fried chicken gizzards and sweet caramelized plantain cubes tossed in rich spicy bell pepper sauce.",
+    "price": 13.5,
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 111,
+    "restaurantId": 1,
+    "name": "Catfish Pepper Soup",
+    "description": "Aromatic Nigerian herbal broth infused with uda seeds, uziza leaves, and fresh tender catfish steaks.",
+    "price": 17,
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 112,
+    "restaurantId": 1,
+    "name": "Ofada Rice with Ayamase Designer Stew",
+    "description": "Short grain unpolished Ofada rice served in banana leaves with spicy green bell pepper locust bean stew.",
+    "price": 16.5,
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 113,
+    "restaurantId": 1,
+    "name": "Crispy Golden Akara with Ogi Custard",
+    "description": "Light whipped black-eyed bean fritters fried golden crisp, served with warm sweetened corn custard.",
+    "price": 8.5,
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 114,
+    "restaurantId": 1,
+    "name": "Yam Pottage (Asaro)",
+    "description": "Mashed soft yam simmered in savory palm oil, sweet peppers, dried prawns, and fresh spinach.",
+    "price": 11.5,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 115,
+    "restaurantId": 1,
+    "name": "Efo Riro Soup with Semovita",
+    "description": "Rich Yoruba vegetable soup prepared with fresh shoko leaves, smoked dried fish, and smooth semovita.",
+    "price": 15,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 116,
+    "restaurantId": 1,
+    "name": "Spicy Suya Spiced Wings (8 pcs)",
+    "description": "Crisp charred chicken wings coated in house northern yaji spice and drizzled with lime juice.",
+    "price": 13,
+    "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 117,
+    "restaurantId": 1,
+    "name": "Traditional Abacha (African Salad)",
+    "description": "Shredded sun-dried cassava tossed in spiced palm oil emulsion with garden eggs, utazi, and ugba.",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 118,
+    "restaurantId": 1,
+    "name": "Cinnamon Spiced Chin-Chin Jar",
+    "description": "Hand-rolled crispy Nigerian pastry cubes infused with nutmeg, pure vanilla, and warm cinnamon.",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 119,
+    "restaurantId": 1,
+    "name": "Fresh Zobo Hibiscus Spiced Tea",
+    "description": "Steeped crimson hibiscus calyces with crushed ginger root, cloves, pineapple juice, and fresh mint leaves.",
+    "price": 4.5,
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 120,
+    "restaurantId": 1,
+    "name": "Golden Puff-Puff with Cinnamon (6 pcs)",
+    "description": "Fluffy yeasted sweet dough balls fried deep golden brown, dusted with powdered sugar and cinnamon.",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1579372786545-d24232daf58c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ]
+  },
+  {
+    "id": 201,
+    "restaurantId": 2,
+    "name": "Wood-Fired Margherita D.O.P.",
+    "description": "San Marzano tomato sauce, fresh buffalo mozzarella, fresh basil leaves, and extra virgin olive oil.",
+    "price": 17.5,
+    "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 202,
+    "restaurantId": 2,
+    "name": "Truffle & Wild Mushroom Tagliatelle",
+    "description": "Fresh egg pasta tossed in black truffle butter, porcini mushrooms, parmigiano reggiano, and fresh thyme.",
+    "price": 21,
+    "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281691?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 203,
+    "restaurantId": 2,
+    "name": "Diavola Spicy Salami Pizza",
+    "description": "Crushed Italian tomatoes, spicy calabrese salami, fior di latte, chili honey drizzle, and oregano.",
+    "price": 19.5,
+    "image": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=600&q=80",
+    "dietary": []
+  },
+  {
+    "id": 204,
+    "restaurantId": 2,
+    "name": "Gluten-Free Penne All'Arrabbiata",
+    "description": "Artisanal gluten-free penne tossed in fiery San Marzano tomato sugo, garlic, bird's eye chili, and fresh Italian basil.",
+    "price": 16.5,
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "vegetarian",
+      "vegan"
+    ]
+  },
+  {
+    "id": 205,
+    "restaurantId": 2,
+    "name": "Artisanal Venetian Tiramisu",
+    "description": "Espresso-soaked ladyfingers layered with whipped mascarpone cream and dusted with Valrhona cocoa.",
+    "price": 8.5,
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 206,
+    "restaurantId": 2,
+    "name": "Quattro Formaggi Bianca Pizza",
+    "description": "Neapolitan crust topped with gorgonzola dolce, fior di latte, aged parmesan, and fontina cheese.",
+    "price": 20,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 207,
+    "restaurantId": 2,
+    "name": "Slow-Cooked Beef Bolognese Lasagna",
+    "description": "Layers of fresh pasta sheets, slow-simmered prime beef ragù, silky béchamel sauce, and baked golden parmigiano.",
+    "price": 19,
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=600&q=80",
+    "dietary": []
+  },
+  {
+    "id": 208,
+    "restaurantId": 2,
+    "name": "Wild Mushroom & Truffle Risotto",
+    "description": "Carnaroli rice cooked slowly with porcini broth, finished with white truffle butter and shaved pecorino.",
+    "price": 22.5,
+    "image": "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 209,
+    "restaurantId": 2,
+    "name": "Crispy Calamari Fritti",
+    "description": "Tender flash-fried baby squid seasoned with sea salt flakes, served with garlic caper aioli and charred lemon.",
+    "price": 14.5,
+    "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=600&q=80",
+    "dietary": []
+  },
+  {
+    "id": 210,
+    "restaurantId": 2,
+    "name": "Bruschetta al Pomodoro & Basil",
+    "description": "Toasted sourdough bread rubbed with garlic, topped with heirloom vine tomatoes, fresh basil, and aged Modena glaze.",
+    "price": 9.5,
+    "image": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ]
+  },
+  {
+    "id": 211,
+    "restaurantId": 2,
+    "name": "Handmade Spinach & Ricotta Ravioli",
+    "description": "Pillowy pasta pillows filled with fresh buffalo ricotta and baby spinach, tossed in fragrant sage brown butter.",
+    "price": 18.5,
+    "image": "https://images.unsplash.com/photo-1587740408442-77114b0b1689?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 212,
+    "restaurantId": 2,
+    "name": "Prosciutto Crudo e Rucola Pizza",
+    "description": "Tomato sugo, fior di latte, aged 18-month Parma prosciutto, baby wild arugula, and shaved parmesan.",
+    "price": 21.5,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+    "dietary": []
+  },
+  {
+    "id": 213,
+    "restaurantId": 2,
+    "name": "Caprese Salad with Buffalo Mozzarella",
+    "description": "Sliced ripe Campari tomatoes, fresh Campania buffalo mozzarella, basil leaves, and cold-pressed olive oil.",
+    "price": 12.5,
+    "image": "https://images.unsplash.com/photo-1592417817098-8f3d69102353?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 214,
+    "restaurantId": 2,
+    "name": "Seafood Linguine Frutti di Mare",
+    "description": "Linguine tossed with mussels, black tiger prawns, clams, and baby squid in garlic white wine tomato broth.",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80",
+    "dietary": []
+  },
+  {
+    "id": 215,
+    "restaurantId": 2,
+    "name": "Crispy Sicilian Arancini (3 pcs)",
+    "description": "Golden breadcrumb-crusted saffron risotto spheres stuffed with melted mozzarella and green peas.",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 216,
+    "restaurantId": 2,
+    "name": "Potato Gnocchi al Gorgonzola",
+    "description": "Handcrafted fluffy potato gnocchi enveloped in creamy lombardy gorgonzola sauce with toasted walnuts.",
+    "price": 17,
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 217,
+    "restaurantId": 2,
+    "name": "Pollo al Limone e Rosmarino",
+    "description": "Pan-roasted free-range chicken supreme with lemon caper sauce, roasted rosemary baby potatoes, and greens.",
+    "price": 19.5,
+    "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 218,
+    "restaurantId": 2,
+    "name": "Sicilian Pistachio Cannoli (2 pcs)",
+    "description": "Crisp fried pastry shells piped with sweet sheep's ricotta cream, dark chocolate chips, and Bronte pistachios.",
+    "price": 7.5,
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 219,
+    "restaurantId": 2,
+    "name": "San Pellegrino Sparkling Blood Orange",
+    "description": "Authentic Italian sparkling beverage with sun-ripened Mediterranean blood orange juice.",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 220,
+    "restaurantId": 2,
+    "name": "Classic Espresso Affogato",
+    "description": "Double shot of freshly pulled Italian espresso poured over artisanal vanilla bean gelato.",
+    "price": 6.5,
+    "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 301,
+    "restaurantId": 3,
+    "name": "Dragon Fire Sushi Bento Box",
+    "description": "Crispy tempura prawn roll topped with barbecued unagi eel, avocado, spicy mayo, plus 4 pieces nigiri.",
+    "price": 24.5,
+    "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 302,
+    "restaurantId": 3,
+    "name": "Rich Miso Tonkotsu Ramen",
+    "description": "14-hour simmered pork bone broth with Hokkaido miso, braised chashu, ajitsuke tamago egg, nori, and scallions.",
+    "price": 19,
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80",
+    "dietary": []
+  },
+  {
+    "id": 303,
+    "restaurantId": 3,
+    "name": "Salmon & Avocado Poke Bowl",
+    "description": "Sashimi-grade Norwegian salmon, Hass avocado, edamame, cucumber, and toasted sesame over warm sushi rice with gluten-free tamari.",
+    "price": 18.5,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 304,
+    "restaurantId": 3,
+    "name": "Vegan Tofu & Shiitake Ramen",
+    "description": "Deep umami shiitake and kombu broth, tender braised tofu cubes, menma bamboo shoots, baby bok choy, and scallions.",
+    "price": 16,
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 305,
+    "restaurantId": 3,
+    "name": "Iced Sparkling Yuzu Matcha",
+    "description": "Ceremonial Uji matcha whisked fresh over sparkling tonic water and Japanese yuzu citrus nectar.",
+    "price": 6.5,
+    "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 306,
+    "restaurantId": 3,
+    "name": "Crispy Chicken Katsu Curry",
+    "description": "Panko-crusted tender chicken breast cutlet served over steamed koshihikari rice with rich Japanese aromatic curry.",
+    "price": 18,
+    "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 307,
+    "restaurantId": 3,
+    "name": "Spicy Tuna Volcano Maki Roll (8 pcs)",
+    "description": "Yellowfin tuna tossed in spicy sriracha sesame sauce, wrapped with cucumber, topped with crunchy tempura flakes.",
+    "price": 15.5,
+    "image": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 308,
+    "restaurantId": 3,
+    "name": "Steamed Edamame with Maldon Salt",
+    "description": "Young green soybean pods steamed fresh and sprinkled with coarse Maldon sea salt flakes and roasted sesame.",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 309,
+    "restaurantId": 3,
+    "name": "Pan-Fried Wagyu Beef Gyoza (6 pcs)",
+    "description": "Delicate handmade Japanese dumplings stuffed with minced wagyu beef and scallions, served with spicy ponzu dip.",
+    "price": 12.5,
+    "image": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 310,
+    "restaurantId": 3,
+    "name": "Crispy Vegetable Tempura Basket",
+    "description": "Light and airy tempura-battered sweet potato, lotus root, shiitake mushrooms, and asparagus with tentsuyu dip.",
+    "price": 11.5,
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "vegan"
+    ]
+  },
+  {
+    "id": 311,
+    "restaurantId": 3,
+    "name": "Chef's Nigiri Selection (8 pcs)",
+    "description": "Assorted premium sushi nigiri featuring Atlantic salmon, yellowfin tuna, sea bass, and sweet tamago.",
+    "price": 22,
+    "image": "https://images.unsplash.com/photo-1611143669185-af224c5e3252?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 312,
+    "restaurantId": 3,
+    "name": "Teriyaki Glazed Atlantic Salmon",
+    "description": "Pan-seared Atlantic salmon fillet lacquered with sweet homemade teriyaki glaze, served with jasmine rice and bok choy.",
+    "price": 21.5,
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 313,
+    "restaurantId": 3,
+    "name": "Spicy Kimchi Fried Rice with Onsen Egg",
+    "description": "Wok-tossed sushi rice with aged spicy kimchi, sesame oil, scallions, and a silky 63°C soft-poached onsen egg.",
+    "price": 14,
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 314,
+    "restaurantId": 3,
+    "name": "Charcoal Yakitori Chicken Skewers (4 pcs)",
+    "description": "Skewered chicken thighs and Tokyo scallions grilled over binchotan charcoal and glazed with sweet tare sauce.",
+    "price": 11,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 315,
+    "restaurantId": 3,
+    "name": "Japanese Wakame Seaweed Salad",
+    "description": "Tender seasoned marine seaweed tossed in toasted sesame oil, rice vinegar, and roasted white sesame seeds.",
+    "price": 7.5,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 316,
+    "restaurantId": 3,
+    "name": "Crispy Ebi Prawn Tempura Maki Roll",
+    "description": "Jumbo panko fried tiger prawn rolled with avocado, tobiko, and sweet kabayaki unagi glaze.",
+    "price": 16.5,
+    "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 317,
+    "restaurantId": 3,
+    "name": "Steamed Bao Buns with Braised Tofu (2 pcs)",
+    "description": "Pillowy white steamed lotus bao buns filled with crispy glazed tofu, pickled cucumbers, and hoisin chili glaze.",
+    "price": 13,
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 318,
+    "restaurantId": 3,
+    "name": "Japanese Matcha Green Tea Cheesecake",
+    "description": "Velvety smooth baked cheesecake flavored with ceremonial grade Uji green tea on an Oreo crust.",
+    "price": 8,
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 319,
+    "restaurantId": 3,
+    "name": "Artisanal Mochi Trio Ice Cream",
+    "description": "Soft sweet pounded rice dough surrounding mango, green tea, and strawberry cream center.",
+    "price": 7.5,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 320,
+    "restaurantId": 3,
+    "name": "Calpico Lychee Sparkling Soda",
+    "description": "Refreshing Japanese sweet-tangy citrus soda infused with crushed lychee fruit and boba pearls.",
+    "price": 5.5,
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 401,
+    "restaurantId": 4,
+    "name": "The Double Smokey BBQ Bacon Burger",
+    "description": "Two 4oz smashed Angus beef patties, applewood bacon, aged cheddar, crispy onion rings, and house bourbon BBQ sauce.",
+    "price": 16.5,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=600&q=80",
+    "dietary": []
+  },
+  {
+    "id": 402,
+    "restaurantId": 4,
+    "name": "Nashville Hot Crispy Chicken Sandwich",
+    "description": "Double buttermilk fried chicken breast dredged in cayenne pepper glaze, dill pickles, and creamy garlic slaw on brioche.",
+    "price": 15,
+    "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 403,
+    "restaurantId": 4,
+    "name": "Beyond Meat Plant Burger",
+    "description": "Juicy plant-based Beyond patty with vegan smoked cheddar, dill pickles, crisp lettuce, and egg-free secret burger spread on vegan brioche.",
+    "price": 16,
+    "image": "https://images.unsplash.com/photo-1584947897672-132d43e5c9b6?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 404,
+    "restaurantId": 4,
+    "name": "Truffle Rosemary Parmesan Fries",
+    "description": "Crispy skin-on golden potato fries tossed in white truffle oil, grated aged parmesan, and sea salt flakes.",
+    "price": 7.5,
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 405,
+    "restaurantId": 4,
+    "name": "Salted Caramel Pretzel Shake",
+    "description": "Vanilla custard spun with fleur de sel caramel, crushed pretzels, whipped cream, and chocolate drizzle.",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 406,
+    "restaurantId": 4,
+    "name": "Classic American Cheeseburger",
+    "description": "Single smashed Angus patty, melted yellow American cheese, dill pickle chips, diced onions, ketchup, and yellow mustard.",
+    "price": 13,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 407,
+    "restaurantId": 4,
+    "name": "Oklahoma Fried Onion Double Smash",
+    "description": "Two prime beef patties smashed wafer-thin over sweet Vidalia onions, steamed potato bun, and melted American cheese.",
+    "price": 15.5,
+    "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 408,
+    "restaurantId": 4,
+    "name": "Crispy Buffalo Chicken Wings (8 pcs)",
+    "description": "Jumbo chicken wings fried extra crisp, tossed in tangy cayenne pepper butter sauce, served with blue cheese dip.",
+    "price": 14,
+    "image": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 409,
+    "restaurantId": 4,
+    "name": "Portobello Mushroom & Swiss Burger",
+    "description": "Whole roasted garlic portobello cap, caramelized onions, melted Swiss cheese, and truffle garlic aioli.",
+    "price": 14.5,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 410,
+    "restaurantId": 4,
+    "name": "Beer-Battered Golden Onion Rings",
+    "description": "Thick-cut sweet white onions dipped in craft IPA batter, fried crunchy golden, served with smoked paprika remoulade.",
+    "price": 6.5,
+    "image": "https://images.unsplash.com/photo-1639024471284-0af5632ff4e3?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 411,
+    "restaurantId": 4,
+    "name": "Crispy Sweet Potato Fries",
+    "description": "Hand-cut sweet potato wedges fried crisp, dusted with smoked sea salt and served with maple chipotle mayo.",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 412,
+    "restaurantId": 4,
+    "name": "Loaded BBQ Pulled Beef Fries",
+    "description": "Crispy skin-on french fries piled high with 12-hour slow smoked pulled beef, warm cheese sauce, and jalapeños.",
+    "price": 11.5,
+    "image": "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 413,
+    "restaurantId": 4,
+    "name": "Smoked Sticky BBQ Short Ribs",
+    "description": "Slow-roasted tender beef short ribs glazed in smoky bourbon barbecue sauce, served with creamy apple cider slaw.",
+    "price": 22,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 414,
+    "restaurantId": 4,
+    "name": "Fried Mac & Cheese Bites (5 pcs)",
+    "description": "Crispy panko spheres filled with four-cheese macaroni and smoked gouda, served with spicy marinara dip.",
+    "price": 8.5,
+    "image": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 415,
+    "restaurantId": 4,
+    "name": "Grilled Herb Chicken Club Sandwich",
+    "description": "Marinated grilled chicken breast, Hass avocado, crisp romaine, sliced tomato, and herb mayo on toasted brioche.",
+    "price": 14,
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 416,
+    "restaurantId": 4,
+    "name": "Jalapeño Popper Smash Burger",
+    "description": "Double smashed Angus beef, roasted jalapeños, whipped cream cheese, sharp cheddar, and chipotle ranch.",
+    "price": 16.5,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "halal"
+    ]
+  },
+  {
+    "id": 417,
+    "restaurantId": 4,
+    "name": "Vegan Loaded Chili Cheese Fries",
+    "description": "Crispy golden french fries smothered with rich three-bean chili, dairy-free cheddar sauce, and scallions.",
+    "price": 9.5,
+    "image": "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 418,
+    "restaurantId": 4,
+    "name": "Warm Fudge Brownie Sundae",
+    "description": "Fudgy Belgian dark chocolate brownie topped with Madagascar vanilla ice cream, hot chocolate fudge, and toasted pecans.",
+    "price": 7.5,
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 419,
+    "restaurantId": 4,
+    "name": "Peanut Butter Oreo Thick Shake",
+    "description": "Hand-spun rich ice cream milkshake blended with creamy peanut butter, crushed Oreo cookies, and whipped cream.",
+    "price": 7.5,
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 420,
+    "restaurantId": 4,
+    "name": "Strawberry Lemonade Cooler",
+    "description": "Freshly squeezed Meyer lemons, crushed sweet strawberries, sparkling mineral water, and fresh mint.",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 501,
+    "restaurantId": 5,
+    "name": "Mediterranean Salmon Harvest Bowl",
+    "description": "Pan-seared Atlantic salmon, rainbow quinoa, roasted chickpeas, cucumber, cherry tomatoes, kalamata olives, and tahini dill dressing.",
+    "price": 17.5,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 502,
+    "restaurantId": 5,
+    "name": "Avocado Green Goddess Crunch Bowl",
+    "description": "Hass avocado, baby kale, shaved edamame, toasted pepitas, broccoli florets, and spirulina green goddess vinaigrette.",
+    "price": 13.5,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 503,
+    "restaurantId": 5,
+    "name": "Amazonian Acai Superfood Bowl",
+    "description": "Pure organic wild acai blended with banana, topped with hemp granola, fresh strawberries, blueberries, chia seeds, and honey.",
+    "price": 11.5,
+    "image": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 504,
+    "restaurantId": 5,
+    "name": "Cold-Pressed Detox Glow Juice",
+    "description": "Fresh celery, green apple, cucumber, ginger root, spinach, and cold-pressed lemon juice.",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 505,
+    "restaurantId": 5,
+    "name": "Vanilla Bean Chia Seed Parfait",
+    "description": "Almond milk infused chia pudding layered with mango passionfruit coulis and toasted coconut flakes.",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 506,
+    "restaurantId": 5,
+    "name": "Organic Quinoa & Falafel Protein Bowl",
+    "description": "Crispy baked herb falafels, organic tricolor quinoa, roasted eggplant, tabbouleh, and garlic lemon tahini dressing.",
+    "price": 14,
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 507,
+    "restaurantId": 5,
+    "name": "Artisanal Sourdough Avocado Toast",
+    "description": "Thick sourdough toast topped with smashed Hass avocado, chili flakes, hemp seeds, and a soft-poached free-range egg.",
+    "price": 11.5,
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian"
+    ]
+  },
+  {
+    "id": 508,
+    "restaurantId": 5,
+    "name": "Pink Pitaya Dragonfruit Smoothie Bowl",
+    "description": "Vibrant pink pitaya fruit blended with coconut water, topped with kiwi slices, chia seeds, cacao nibs, and toasted oats.",
+    "price": 12,
+    "image": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 509,
+    "restaurantId": 5,
+    "name": "Thai Sesame Peanut Tofu Crunch Bowl",
+    "description": "Crispy baked organic tofu cubes, purple cabbage, shredded carrots, edamame, and spicy ginger peanut dressing.",
+    "price": 13,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 510,
+    "restaurantId": 5,
+    "name": "Roasted Sweet Potato & Black Bean Bowl",
+    "description": "Maple chili roasted sweet potato wedges, spiced black beans, sweet corn, guacamole, and cilantro lime dressing.",
+    "price": 12.5,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 511,
+    "restaurantId": 5,
+    "name": "Almond Flour Banana Pancakes (3 pcs)",
+    "description": "Fluffy gluten-free pancakes prepared with almond flour and ripe bananas, served with pure Canadian maple syrup and berries.",
+    "price": 11,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 512,
+    "restaurantId": 5,
+    "name": "Immunity Turmeric & Ginger Wellness Shot",
+    "description": "Concentrated cold-pressed organic Hawaiian ginger root, raw turmeric, cayenne pepper, and Meyer lemon juice.",
+    "price": 4,
+    "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 513,
+    "restaurantId": 5,
+    "name": "Lemon Herb Grilled Free-Range Chicken Bowl",
+    "description": "Rosemary marinated chicken breast, wild rice medley, grilled zucchini, charred cherry tomatoes, and basil oil.",
+    "price": 15.5,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "gluten-free",
+      "halal"
+    ]
+  },
+  {
+    "id": 514,
+    "restaurantId": 5,
+    "name": "Blue Spirulina Ocean Magic Smoothie",
+    "description": "Nutrient-dense blue spirulina, frozen banana, coconut milk, and pineapple blended creamy with chia seeds.",
+    "price": 7.5,
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 515,
+    "restaurantId": 5,
+    "name": "Warm Coconut Lentil Dal Bowl",
+    "description": "Red split lentils slow-cooked with coconut milk, ginger, roasted cumin, and baby spinach over basmati rice.",
+    "price": 13.5,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 516,
+    "restaurantId": 5,
+    "name": "Iced Ceremonial Matcha Oat Latte",
+    "description": "First-harvest ceremonial Japanese matcha whisked with creamy barista oat milk and touch of blue agave.",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 517,
+    "restaurantId": 5,
+    "name": "Mediterranean Hummus & Warm Pita Platter",
+    "description": "Silky smooth chickpea hummus topped with warm za'atar oil, toasted pine nuts, fresh cucumbers, and gluten-free crackers.",
+    "price": 9.5,
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 518,
+    "restaurantId": 5,
+    "name": "Raw Cacao Superfood Energy Bites (4 pcs)",
+    "description": "Medjool dates, raw Peruvian cacao, crushed almonds, chia seeds, and sea salt rolled into nutrient bites.",
+    "price": 5.5,
+    "image": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 519,
+    "restaurantId": 5,
+    "name": "Cold-Pressed Beet & Blood Orange Glow",
+    "description": "Organic ruby beets, crisp carrots, blood orange, ginger, and fresh mint cold-pressed for maximum nutrients.",
+    "price": 6.5,
+    "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": 520,
+    "restaurantId": 5,
+    "name": "Warm Baked Berry & Cinnamon Crisp",
+    "description": "Baked wild blueberries and apples topped with cinnamon rolled oats, served warm with dairy-free vanilla cream.",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ]
+  }
+]

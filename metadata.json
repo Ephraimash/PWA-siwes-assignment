@@ -1,0 +1,6 @@
+{
+  "name": "FoodHub",
+  "description": "Multi-restaurant food ordering Progressive Web App with offline menu browsing, cart, simulated checkout, and restaurant contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
